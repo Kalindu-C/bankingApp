@@ -1,5 +1,5 @@
 # BankingApp
 
-### Here is the high level overview of our project:
+### Here is the high level overview of this project:
 
-![Alt text](bankingApp/backend/img/Architecture.PNG)
+![image_alt](https://github.com/Kalindu-C/bankingApp/blob/main/Architecture.PNG?raw=true)
