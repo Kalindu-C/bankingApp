@@ -1,4 +1,4 @@
-### 🧠 Project Overview
+## 🧠 Project Overview
 
 This project is designed to analyze and forecast user financial data using advanced time series models and AI-powered tools.
 
