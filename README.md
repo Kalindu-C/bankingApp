@@ -43,7 +43,7 @@ We use a combination of time series forecasting models such as TFT (Temporal Fus
 
 These models were selected after careful analysis and experimentation with various time series forecasting techniques.
 
-📊 [Include image here — Figure 3]
+![image_alt](https://github.com/Kalindu-C/bankingApp/blob/main/Model%20Selection.PNG)
 
 🤖 Agentic Chatbot
 
